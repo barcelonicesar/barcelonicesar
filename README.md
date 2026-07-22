@@ -1,4 +1,4 @@
-# Olá, eu sou Cesar Barceloni 👋
+# Olá, eu sou Cesar Barceloni
 
 ## Backend Software Engineer | PHP • Laravel • Go • SQL
 
@@ -12,16 +12,15 @@ Minha experiência inclui participação em análise de requisitos, desenvolvime
 
 ## Sobre mim
 
-- 💻 Mais de 5 anos de experiência com desenvolvimento de software
-- 🏭 Experiência com sistemas corporativos e aplicações para ambientes industriais
-- 🔧 Desenvolvimento e manutenção de aplicações com PHP e Laravel
-- 🚀 Desenvolvimento de ferramentas e serviços utilizando Go
-- 🔗 Criação e integração de APIs REST
-- 🗄️ Experiência com Oracle, SQL Server e MySQL
-- 🐧 Atuação em ambientes Linux
-- 🐳 Conhecimentos em Docker e CI/CD
-- 📚 Interesse em arquitetura de software, cloud computing e sistemas distribuídos
-- 🤝 Experiência colaborando com equipes multidisciplinares
+- Mais de 5 anos de experiência com desenvolvimento de software
+- Experiência com sistemas corporativos e aplicações para ambientes industriais
+- Desenvolvimento e manutenção de aplicações com PHP e Laravel
+- Desenvolvimento de ferramentas e serviços utilizando Go
+- Criação e integração de APIs REST
+- Experiência com Oracle, SQL Server e MySQL
+- Atuação em ambientes Linux
+- Interesse em arquitetura de software, cloud computing e sistemas distribuídos
+- Experiência colaborando com equipes multidisciplinares
 
 ---
 
