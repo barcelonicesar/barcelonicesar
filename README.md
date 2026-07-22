@@ -166,22 +166,25 @@ Busco continuar evoluindo como desenvolvedor back-end e engenheiro de software, 
 
 ---
 
-## Formação acadêmica
+## Formação Acadêmica
 
-**Bacharelado em Sistemas de Informação**  
-Centro Universitário Salesiano de São Paulo — UNISAL
+### Pós-Graduação Lato Sensu (Em andamento)
 
-**Técnico em Processamento de Dados**  
+**Desenvolvimento Avançado em Go (Go Expert)**
+
+Faculdade Full Cycle de Tecnologia (FCTECH)
+
+---
+
+### Bacharelado em Sistemas de Informação
+
+Centro Universitário Salesiano de São Paulo (UNISAL)
+
+---
+
+### Técnico em Processamento de Dados
+
 Colégio Dom Pedro II
-
----
-
-## Idiomas
-
-- Português — Nativo
-- Inglês — Intermediário em desenvolvimento
-
----
 
 ## Contato
 
