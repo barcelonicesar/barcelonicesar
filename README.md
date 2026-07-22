@@ -150,22 +150,6 @@ Busco continuar evoluindo como desenvolvedor back-end e engenheiro de software, 
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barcelonicesar&show_icons=true&include_all_commits=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=barcelonicesar&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=barcelonicesar)
-
-</div>
-
-> As estatísticas refletem apenas repositórios públicos e podem não representar toda a minha experiência profissional.
-
----
-
 ## Formação Acadêmica
 
 ### Pós-Graduação Lato Sensu (Em andamento)
